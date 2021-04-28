@@ -34,7 +34,7 @@
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "faker": "^4.1.0",
-    "js-yaml": "^3.13.1"
+    "js-yaml": "^3.14.1"
   },
   "devDependencies": {
     "typedoc": "^0.15.0",
