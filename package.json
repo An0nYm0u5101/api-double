@@ -31,8 +31,8 @@
     "array-range": "^1.0.1",
     "backtick-template": "^0.2.0",
     "body-parser": "^1.19.0",
-    "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
     "faker": "^4.1.0",
     "js-yaml": "^3.13.1"
   },
